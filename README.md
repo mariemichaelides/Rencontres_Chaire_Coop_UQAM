@@ -1,4 +1,4 @@
-# Rencontres_Chaire_Coop_UQAM
+# Rencontres mensuelles de la Chaire Cooperators
 Vous trouverez [ici](Slides/) les slides des présentations des rencontres.
 
 ```diff
