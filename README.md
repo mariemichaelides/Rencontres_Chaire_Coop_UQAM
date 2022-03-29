@@ -1,1 +1,1 @@
-# Rencontres_Chaire
+# Rencontres_Chaire_Coop_UQAM
