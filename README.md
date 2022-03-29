@@ -1,4 +1,4 @@
-# Chaire Co-operators - rencontres mensuelles
+# Chaire Co-operators - Rencontres mensuelles
 Vous trouverez [ici](Slides/) les slides des présentations des rencontres.
 
 ```diff
