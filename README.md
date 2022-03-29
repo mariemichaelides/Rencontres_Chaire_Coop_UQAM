@@ -15,8 +15,8 @@ Horaire des rencontres :
 --- 
 
 #### Si vous souhaitez présenter lors d'une prochaine rencontre ou pour toute question, vous pouvez nous écrire en cliquant sur le bouton suivant : 
-<a href="mailto:michaelides.marie@courrier.uqam.ca?
-         cc=coulibaly.raissa@courrier.uqam.ca, boucher.jean-philippe@uqam.ca
+<a href="mailto:michaelides.marie@courrier.uqam.ca,coulibaly.raissa@courrier.uqam.ca?
+         cc=boucher.jean-philippe@uqam.ca
          &subject=Rencontres mensuelles de la Chaire.
          "><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
          
