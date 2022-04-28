@@ -8,7 +8,7 @@ Vous trouverez [ici](Slides/) les slides des présentations des rencontres.
 ---
 Horaire des rencontres :
 **Date** | **Présentateur** | **Programme**
-:---: | :---:
+:---: | :---: | :---:
 30/03/2022 | Francis Duval | Améliorer son flux de travail en R avec targets
 27/04/2022 | Marie Michaelides | Individual claims reserving using activation patterns 
 
