@@ -2,15 +2,15 @@
 Vous trouverez [ici](Slides/) les slides des présentations des rencontres.
 
 ```diff
-- Prochaine présentation : Francis Duval
+- Prochaine présentation : ...
 ```
 
 ---
 Horaire des rencontres :
-**Date** | **Programme**
+**Date** | **Présentateur** | **Programme**
 :---: | :---:
-30/04/2022 | Améliorer son flux de travail en R avec targets
-... | ... | ...
+30/03/2022 | Francis Duval | Améliorer son flux de travail en R avec targets
+27/04/2022 | Marie Michaelides | Individual claims reserving using activation patterns 
 
 --- 
 
