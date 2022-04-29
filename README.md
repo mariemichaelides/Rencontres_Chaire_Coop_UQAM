@@ -2,7 +2,7 @@
 Vous trouverez [ici](Slides/) les slides des présentations des rencontres.
 
 ```diff
-- Prochaine présentation : ...
+- Prochaine présentation : Sébastien Jessup (25/05/2022)
 ```
 
 ---
